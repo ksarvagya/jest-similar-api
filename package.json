@@ -1,0 +1,21 @@
+{
+  "name": "jest-similar-api",
+  "version": "0.1.0",
+  "description": "Minimal test runner API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ./__tests__/meta.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksarvagya/jest-similar-api.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "sarvagya",
+  "bugs": {
+    "url": "https://github.com/ksarvagya/jest-similar-api/issues"
+  },
+  "homepage": "https://github.com/ksarvagya/jest-similar-api#readme"
+}
